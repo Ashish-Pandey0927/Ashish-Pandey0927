@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-pandey0927" alt="ashish-pandey0927" /></a> </p>
 
-- 🌱 I’m currently learning **Web development and C++**
+- 🌱 I’m currently learning **Web development and AI**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/10DTHBqp0yQht0jsKP8HIcTtYnXehpalK?usp=share_link](https://drive.google.com/drive/folders/10DTHBqp0yQht0jsKP8HIcTtYnXehpalK?usp=share_link)
 
